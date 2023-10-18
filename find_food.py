@@ -33,15 +33,13 @@
  #
  ###############################################################################
  
-# This a script for the lunch gang to find fud.
+# This script is for the lunch gang to find fud.
 # Please use this wisely.
  
 import argparse
 import random
- 
- 
- 
- 
+
+
 # Instantiate the argument parser.
 parser = argparse.ArgumentParser(description='Find fudd for the lunch gang.')
  
@@ -51,7 +49,7 @@ parser.add_argument('path_to_food_list', type=str, help='Add path to list of res
 # Parse incoming arguments.
 args = parser.parse_args()
 
-# Global scope for food dictionary
+# Global scope for food dictionary.
 food_options = {}
  
 # Open text file with list of food places and their associated weights.
