@@ -60,11 +60,11 @@ with open(args.path_to_food_list, 'r') as file:
     # Create a dictionary (restaurant:weight).
     # Read each line of file and track its row number
     for row, line in enumerate(file, 1):
-        # Don't worry about the comments or empty in the text file.
+        # Don't worry about the comments or empty lines in the text file.
         if "#" not in line and len(line.strip()) != 0:
             food_to_weight = line.split(":");
 
-            # Remove leading to trailing spaces or new line characters.
+            # Remove leading and trailing spaces or newline characters.
             food_to_weight = list(map(str.strip, food_to_weight))
             
             # A valid line in the text file should only contain two elements,
