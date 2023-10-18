@@ -1,0 +1,18 @@
+#
+# Add list of food options and their associated weights.
+#	Nominal weight will be 2, so 0 could be taken off list, 1 is iffy
+#
+
+Pluckers: 0
+Lazy Dog: 2
+Yardhouse: 2
+Inside Car: 2
+Hawkers: 2
+Gloria's: 2
+Fusion Mediterrenean Grill & Bar: 2
+Hopdoddy: 2
+NY Pizza and Pints: 2
+Pietap: 2
+Loro: 2
+Fogo de Chao: 0
+
