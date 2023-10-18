@@ -16,3 +16,5 @@ Pietap: 2
 Loro: 2
 Fogo de Chao: 0
 
+# For Jeremy
+Starvation: 1
