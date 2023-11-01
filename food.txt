@@ -17,12 +17,10 @@ NY Pizza and Pints: 1
 Pietap: 0
 Loro: 0
 Fogo de Chao: 0
-<<<<<<< Updated upstream
 
 # For Jeremy
 Starvation: 1
-=======
-Starvation: 1
+
 1050 BBQ: 0
 velvet taco: 1
 cris and john: 2
@@ -39,4 +37,3 @@ may dragon chinese resturant: 2
 marshall's bar-B-Q: 2
 burger island: 2
 sky rocket burger: 2
->>>>>>> Stashed changes
