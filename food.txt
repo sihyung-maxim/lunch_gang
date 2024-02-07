@@ -5,35 +5,39 @@
 #  during lunch day.
 #
 
+# Mains
 Pluckers: 2
 Lazy Dog: 2
 Yardhouse: 2
-Inside Car: 2
-Hawkers: 2
+Sidecar: 2
+Hawkers: 1
 Gloria's: 2
 Fusion Mediterranean Grill & Bar: 2
 Hopdoddy: 2
 NY Pizza and Pints: 1
-Pietap: 0
-Loro: 0
+Pietap: 2
+Loro: 2
 Fogo de Chao: 0
+Dave's Hot Chicken: 2
+Lupe Tortilla: 2
 
 # For Jeremy
 Starvation: 1
 
-1050 BBQ: 0
+# Not enough seating for everyone, or not as popular as our mains
+1050 BBQ: 1
 velvet taco: 1
-cris and john: 2
-village burger: 2
-flower child: 2
-mendocino farms: 2
-besa's pizza: 2
+cris and john: 1
+village burger: 1
+flower child: 1
+mendocino farms: 1
+besa's pizza: 1
 taco joint: 2
-flying fish: 2
-tasty tails: 2
-pete's cafe: 2
-benedict's restaurant: 2
-may dragon chinese resturant: 2
-marshall's bar-B-Q: 2
-burger island: 2
-sky rocket burger: 2
+flying fish: 1
+tasty tails: 1
+pete's cafe: 1
+benedict's restaurant: 1
+may dragon chinese resturant: 1
+marshall's bar-B-Q: 1
+burger island: 1
+sky rocket burger: 1
